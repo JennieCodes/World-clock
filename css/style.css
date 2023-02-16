@@ -24,7 +24,6 @@ select {
     padding: 50px;
     box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.4);
     border-radius: 20px;
-    margin: 60px 0;
 }
 .city {
     display: flex;
@@ -32,9 +31,6 @@ select {
     margin: 20px;
     padding: 10px;
     border-bottom: 1px solid grey;
-}
-.date {
-    
 }
 .time {
     font-size: 30px;
